@@ -1,6 +1,4 @@
 Event: TechFest 2026
 Venue: Main Auditorium
 Registration: Open
-HEAD
-Timing1 09 AM to 5 PM
-Timing2 11 AM to 5 PM
+Timing: 09 AM to 5 PM
